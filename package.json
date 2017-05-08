@@ -7,11 +7,11 @@
   },
   "scripts": {
 
-    "debug": "hexo s --config _config.test.yml --debug",
-    "test": "hexo s --config _config.test.yml",
-    "vps": "hexo clean && hexo g -d --config _config.vps.yml",
+    "debug": "hexo s --config test_config.yml --debug",
+    "test": "hexo s --config test_config.yml",
+    "vps": "hexo clean && hexo g -d --config vps_config.yml",
     "post": "hexo clean && hexo g -d --config _config.yml",
-    
+
     "git": "git add * && git commit -m 'update'",
     "gitpush": "git add * && git commit -m 'add-new-post' && git push"
   },
