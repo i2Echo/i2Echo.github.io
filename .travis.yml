@@ -1,0 +1,26 @@
+language: node_js
+
+node_js: stable
+
+install:
+  - npm install
+
+script:
+  - hexo cl  #清除
+  - hexo g  #生成
+
+after_script:
+  - cd ./public
+  - git init
+  - git config user.name "kujohn"
+  - git config user.email "sama2echo@gmail.com"
+  - git add .
+  - git commit -m "update"
+  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
+
+branches:
+  only:
+    - hexo
+env:
+ global:
+   - GH_REF: github.com/i2Echo/i2Echo.github.io.git
