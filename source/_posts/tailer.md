@@ -69,7 +69,8 @@ if __name__ == '__main__':
 
 ### 运行效果
 *Run* `gettime.py`
-![GetNowTime](/images/upload/gettime.png "GetNowTime")  
+![GetNowTime](/images/upload/gettime.png "GetNowTime")
+
 *Run* `readmsg.py`
 ![ReadMsg](/images/upload/readmsg.png "readmsg")
 可以看到控制台实时打印输出了`msg.txt`文件的内容变化。

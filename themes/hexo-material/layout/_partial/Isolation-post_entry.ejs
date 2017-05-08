@@ -61,10 +61,6 @@
                 <%= date(post.date, 'MMM DD, YYYY') %>
             </div>
             <div class="post_entry-footer-comment">
-                <% if(theme.comment.use === 'duoshuo') { %>
-                    <!-- Comment Number -->
-                    <span class="ds-thread-count" data-thread-key="<% theme.comment.duoshuo_thread_key_type === 'id' ? page.id : page.path %>" data-count-type="comments"></span>
-                <% } %>
                 <% if(theme.comment.use === 'changyan') { %>
                     <!-- Comment Number -->
                     <span class="post_entry-comment" >

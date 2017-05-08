@@ -25,6 +25,3 @@ But who care!
 
 因为我是谁不重要，重要的是我也不知道你是谁！哈哈！！！
 
-
-> 最近访客
-<div class="ds-recent-visitors" data-num-items="28" data-avatar-size="42" id="ds-recent-visitors"></div>

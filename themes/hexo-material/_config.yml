@@ -30,7 +30,7 @@ uiux:
     theme_color: "#0097A7"
     theme_sub_color: "#00838F"
     hyperlink_color: "#00838F"
-    button_color: "#757575"
+    button_color: "#009688"
     android_chrome_color: "#0097A7"
     nprogress_color: "#29d"
     nprogress_buffer: "800"
@@ -157,12 +157,10 @@ materialcdn:
 
 # Comment Systems
 # Available value of "use":
-#     duoshuo | disqus | disqus_click | changyan
+#     disqus | disqus_click | changyan
 comment:
-    use: duoshuo
-    shortname: iecho
-    duoshuo_thread_key_type: path
-    duoshuo_embed_js_url: "https://static.duoshuo.com/embed.js"
+    use: disqus_click
+    shortname: ikuyman-pub
     changyan_appid:
     changyan_conf:
     changyan_thread_key_type: path

@@ -103,14 +103,14 @@
 
     <!-- Import CSS & jQuery -->
     <% if(theme.materialcdn.use === true) { %>
-        <link rel="stylesheet" href="<%= theme.materialcdn.base %>/css/material.min.css">
-        <link rel="stylesheet" href="<%= theme.materialcdn.base %>/css/style.min.css">
+        <link rel="stylesheet" href="<%= theme.materialcdn.base %>/css/material.css">
+        <link rel="stylesheet" href="<%= theme.materialcdn.base %>/css/style.css">
         <%- partial('_partial/config_css') %>
         <script src="<%= theme.materialcdn.base %>/js/jquery.min.js"></script>
         <script src="<%= theme.materialcdn.base %>/js/queue.js"></script>
     <%}else{%>
-        <%- css('css/material.min') %>
-        <%- css('css/style.min') %>
+        <%- css('css/material') %>
+        <%- css('css/style') %>
         <%- partial('_partial/config_css') %>
         <%- js('js/jquery.min') %>
         <%- js('js/queue') %>
@@ -120,7 +120,7 @@
     <script>
         var agent = navigator.userAgent.toLowerCase();
         if(agent.indexOf('ucbrowser')>0) {
-            document.write("<%- css('css/uc').replace(/\"/g,"\\\"") %>");
+            document.write("<%- css('css/uc').replace(/\"/g,'\\\"') %>");
             alert('由于 UC 浏览器使用极旧的内核，而本网站使用了一些新的特性。\n为了您能更好的浏览，推荐使用 Chrome 或 Firefox 浏览器。');
         }
     </script>

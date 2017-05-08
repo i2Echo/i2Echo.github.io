@@ -131,8 +131,8 @@ stylus:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:i2Echo/i2echo.github.io.git
-  #branch: gh-pages
+  message: update_post
+  repo: git@23.105.205.117:hexo.git
 
 # Sitemap
 sitemap:
