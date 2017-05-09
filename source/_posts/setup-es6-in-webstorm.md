@@ -10,9 +10,9 @@ categories: Tools
 我用的webstorm11(其他版本不保证) 系统win10
  > settings -> Languages & Frameworks -> JavaScript
 
-![配置](http://oe0s6qq46.bkt.clouddn.com/setup-es6-1.png)
+![配置](/images/upload/setup-es6-1.png)
 配置好了之后
-![测试](http://oe0s6qq46.bkt.clouddn.com/setup-es6-2.png)
+![测试](/images/upload/setup-es6-2.png)
 好了这样就支持es6语法了，但是你会发现并不能进行debug，编译，运行，很郁闷。这时候就要用到es6的编译器babel了
 
 ## babel配置
@@ -33,7 +33,7 @@ npm install babel-preset-es2015
  > settings -> tools -> file watchers
 
 然后点击加号添加
-![配置file watcher](http://oe0s6qq46.bkt.clouddn.com/setup-es6-3.png)
+![配置file watcher](/images/upload/setup-es6-3.png)
 配置好了之后你就会发现会随时编译成ES5的文件以及sourceMap文件
-![转码成ES5](http://oe0s6qq46.bkt.clouddn.com/setup-es6-4.png)
+![转码成ES5](/images/upload/setup-es6-4.png)
 这样就大功告成，可以再webstorm下愉快的使用ES6了

@@ -8,8 +8,8 @@ categories: Tools
 <!--more-->
 并且做了移动端的适配：
 * pc端shortcut: 
-![editor-pc](http://oe0s6qq46.bkt.clouddn.com/editor-pc.png)
+![editor-pc](/images/upload/editor-pc.png)
 * 手机端shortcut: 
-![editor-mb](http://oe0s6qq46.bkt.clouddn.com/editor-mb.png)
+![editor-mb](/images/upload/editor-mb.png)
 
 ### 在线测试地址：[Demo](http://blog.ikuyman.pub/md4wxpub/)
