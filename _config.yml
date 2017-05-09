@@ -25,7 +25,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: README.md
 about_dir: about
 search_dir: search
 
@@ -142,3 +142,5 @@ sitemap:
 search:
   path: search.xml
   field: post
+
+disqus_shortname: ikuyman-pub
