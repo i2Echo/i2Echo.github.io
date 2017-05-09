@@ -10,7 +10,7 @@ post:
     newer: "Newer"
     private: "Private post, temporarily hidden"
     qrcode: "Read this article on other device"
-    comments_load_button: "Read Comments (Be sure disqus can load properly)"
+    comments_load_button: "阅读评论（请确保 DISQUS 可以正常加载）"
 share:
     article_rss: "Article RSS"
     comment_rss: "Comment RSS"
