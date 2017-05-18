@@ -62,7 +62,7 @@ chmod 600 ~/.ssh/authorized_keys
 ```
 以上表示只有该文件所有者才能拥有读写或执行的权限
 设置完成之后连接成功，不需要密码登陆了
-![](images\upload\ssh-no-password.png)
+![](\images\upload\ssh-no-password.png)
 
 ## 参考
 [在VPS上搭建hexo博客，利用git更新](http://tiktoking.github.io/2016/01/26/hexo/)
