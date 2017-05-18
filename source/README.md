@@ -1,7 +1,7 @@
 # 个人博客（hexo框架）
 
 ## 访问地址
-[Kujohn's Blog](http://ikuyman.pub/)
+[Kujohn's Blog](https://ikuyman.pub/)
 
 ## 自动化部署方案
 本博客为Git+TravisCI+VPS自动化部署
