@@ -40,6 +40,7 @@ git   ALL=(ALL)     ALL
 chmod 440 /etc/sudoers
 ```
 ### 新建远程仓库，并配置ssh免密登录
+``` bash
 su git
 cd ~
 mkdir .ssh && cd .ssh
@@ -48,6 +49,7 @@ vi authorized_keys//在这个文件中粘贴进刚刚申请的key（id_rsa.pub�
 cd ~ 
 mkdir hexo.git && cd hexo.git
 git init --bare # 创建裸仓库
+```
 
 ### 远程免密登录
 ``` bash
