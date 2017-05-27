@@ -13,9 +13,9 @@
 * Travis运行结束之后将生成的public目录推送至github的master分支（我这里算是用来备份的，当然也可以作为githubpages临时访问当vps出现问题时）
 * vps安装git和nginx并配置好nginx
 * vps上运行一个crontab任务，用来定时拉取github上的静态文件并复制到nginx运行的站点目录下
-* 然后访问博客域名，就能查看博客了
+* 最后访问博客域名，查看博客
 
-## features
+## Features
 * 全自动化流程，极大地简化了操作步骤
 * 可以随时随地写博客了，再也不用局限于一个设备或者需要重新搭建环境的麻烦
 * 使用vps访问速度大大提升（毕竟国内github速度并不理想）
