@@ -174,7 +174,7 @@ search:
 # Analytics Systems
 analytics:
     baidu_id:
-    google_id:
+    google_id: UA-102920741-1
 
 # Leancloud Views
 leancloud:
