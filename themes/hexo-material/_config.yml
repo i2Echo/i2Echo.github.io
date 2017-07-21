@@ -65,7 +65,7 @@ background:
 img:
     logo: "/images/icon.svg"
     avatar: "/images/icon.svg"
-    daily_pic: "/img/daily_pic.png"
+    daily_pic: "/img/md.jpg"
     sidebar_header: "/img/sidebar_header.png"
     footerico: "/img/footer/footer_ico-"
     random_thumbnail: "/img/random/material-"
