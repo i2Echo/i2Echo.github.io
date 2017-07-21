@@ -1,5 +1,5 @@
 ---
-title: wechat-markdown-editor
+title: 基于markdown的一个微信公众号编辑器
 tags: [editor, markdown, wechat]
 date: 2017-01-8 20:58:17
 categories: Tools

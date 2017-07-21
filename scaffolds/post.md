@@ -2,5 +2,12 @@
 title: {{ title }}
 date: {{ date }}
 tags: []
-categories: 
+categories: []
 ---
+## 前言
+
+<!--more-->
+
+## 参考文献
+* [title](url)
+* [title](url)

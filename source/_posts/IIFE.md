@@ -189,6 +189,6 @@ adder(1, 2); //3
 ```
 因为这里不是主要去讲函数的构造器就不做过多详细说明。
 
-### 参考文献
+## 参考文献
 * [Immediately-Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
 * [Function - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function)
