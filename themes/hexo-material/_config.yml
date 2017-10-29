@@ -63,9 +63,9 @@ background:
 
 # Images Settings
 img:
-    logo: "/images/icon.svg"
-    avatar: "/images/icon.svg"
-    daily_pic: "/img/md.jpg"
+    logo: "/images/logo.png"
+    avatar: "/images/logo.jpg"
+    daily_pic: "/img/daily_pic0.png"
     sidebar_header: "/img/sidebar_header.png"
     footerico: "/img/footer/footer_ico-"
     random_thumbnail: "/img/random/material-"

@@ -2,9 +2,9 @@
 title: Centos下安装nodejs并升级到最新稳定版
 tags: [centos, nodejs, linux]
 date: 2017-07-21 22:59:18
-categories: [linux]
+categories: [Linux]
 ---
-## 前言
+## 前言：
 本文主要记录下在centos6上安装nodejs并实现node版本管理的过程。
 <!--more-->
 ## 一、使用源码安装
