@@ -1,4 +1,4 @@
-# 个人博客（hexo框架）
+# 个人博客（hexo框架）[![Build Status][travis-image]][travis-url]
 
 ## 访问地址
 [Kujohn's Blog](https://ikuyman.pub/)
@@ -23,4 +23,5 @@
 * 全站https，提高安全性
 * 采用多重备份机制，减少数据丢失的风险
 
- 
+[travis-image]: https://travis-ci.org/i2Echo/i2Echo.github.io.svg?branch=hexo
+[travis-url]: https://travis-ci.org/i2Echo/i2Echo.github.io
