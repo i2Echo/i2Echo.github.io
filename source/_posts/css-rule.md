@@ -2,7 +2,7 @@
 title: Css书写规范
 tags: [css, rule, css规范]
 date: 2016-03-28 20:15:24
-categories: Css
+categories: CSS
 ---
 话说无规矩不成方圆，不管出于可读性，高效性，整洁性，规范css书写也是很有必要的；于是参考了网上的一些css书写规范，自己总结了下css书写规范，希望对自己以后以及前端的童鞋会有帮助。
 <!--more-->

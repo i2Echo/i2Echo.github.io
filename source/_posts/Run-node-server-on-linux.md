@@ -1,7 +1,7 @@
 ---
 title: Linux服务器上配置node+mongodb服务
 tags: [mongoDB, linux]
-categories: [linux]
+categories: [Linux]
 date: 2017-11-18 12:22:23
 ---
 ## 前言: 
