@@ -388,6 +388,9 @@ a {
     padding: 16px;
     border-radius: 3px;
 }
+pre.line-numbers {
+    padding-left: 3.8em!important;
+}
 #post-content .gutter,
 #post-content .code {
     /*  background: #f7f7f7;*/

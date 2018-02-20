@@ -40,12 +40,17 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: true
   tab_replace:
 
 # ===plugin===
+
+prism_plugin:
+  mode: 'preprocess' # realtime/preprocess
+  theme: 'default'
+  line_number: true
 
 # Optimization
 html_minifier:
