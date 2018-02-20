@@ -111,7 +111,7 @@ var indexArrs = [ //16种组合的图块索引数组; // 将autotile分割成48�
 
 ## 最后
 
-到此，就是关于本次autotile算法的一个分享了，如果还有疑问，这里给出我[github的源码](https://github.com/i2Echo/autotileDemo)，以及效果展示[demo](http://blog.ikuyman.pub/autotileDemo/)，感兴趣的你可以参考一下~~
+到此，就是关于本次autotile算法的一个分享了，如果还有疑问，这里给出我[github的源码](https://github.com/i2Echo/autotileDemo)，以及效果展示[demo](http://ghpages.kujohnln.com/autotileDemo/)，感兴趣的你可以参考一下~~
 
 ## 参考文献
 

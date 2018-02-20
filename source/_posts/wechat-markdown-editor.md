@@ -12,4 +12,4 @@ categories: Tools
 * 手机端shortcut: 
 ![editor-mb](/images/upload/editor-mb.png)
 
-### 在线测试地址：[Demo](http://blog.ikuyman.pub/md4wxpub/)
+### 在线测试地址：[Demo](http://ghpages.kujohnln.com/md4wxpub/)
