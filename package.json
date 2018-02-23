@@ -11,7 +11,7 @@
     "vps": "hexo clean && hexo g -d --config vps_config.yml",
     "post": "hexo clean && hexo g -d --config _config.yml",
     "git": "git add * && git commit -m",
-    "gitpush": "git add * && git commit -m $msg && git push"
+    "gitpush": "git add * && git commit -m 'update' && git push"
   },
   "dependencies": {
     "hexo": "^3.2.0",

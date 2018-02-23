@@ -9,7 +9,7 @@ title: About me
       this.nickName = "kujohn";
       this.education = "CCNU";
       this.email = "sama2echo@gmail.com";
-      this.blog = "blog.ikuyman.pub";
+      this.blog = "kujohnln.com";
       this.github = "github.com/i2Echo"
       this.skill = {
         "Javascript" : 54/100,
@@ -24,4 +24,3 @@ title: About me
 But who care!
 
 因为我是谁不重要，重要的是我也不知道你是谁！哈哈！！！
-
