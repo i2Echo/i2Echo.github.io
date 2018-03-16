@@ -70,3 +70,5 @@ chmod 600 ~/.ssh/authorized_keys
 [在VPS上搭建hexo博客，利用git更新](http://tiktoking.github.io/2016/01/26/hexo/)
 
 [Securing OpenSSH](https://wiki.centos.org/HowTos/Network/SecuringSSH)
+
+[搬瓦工vps](https://bandwagonhost.com/aff.php?aff=15290)
